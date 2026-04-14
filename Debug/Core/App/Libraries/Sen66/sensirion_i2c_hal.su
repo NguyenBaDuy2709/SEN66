@@ -1,0 +1,6 @@
+../Core/App/Libraries/Sen66/sensirion_i2c_hal.c:17:9:sensirion_i2c_hal_select_bus	16	static
+../Core/App/Libraries/Sen66/sensirion_i2c_hal.c:21:6:sensirion_i2c_hal_init	4	static
+../Core/App/Libraries/Sen66/sensirion_i2c_hal.c:25:6:sensirion_i2c_hal_free	4	static
+../Core/App/Libraries/Sen66/sensirion_i2c_hal.c:30:8:sensirion_i2c_hal_read	24	static
+../Core/App/Libraries/Sen66/sensirion_i2c_hal.c:39:8:sensirion_i2c_hal_write	24	static
+../Core/App/Libraries/Sen66/sensirion_i2c_hal.c:46:6:sensirion_i2c_hal_sleep_usec	24	static

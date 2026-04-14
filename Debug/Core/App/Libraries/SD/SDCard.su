@@ -1,0 +1,13 @@
+../Core/App/Libraries/SD/SDCard.c:22:6:myprintf	16	static
+../Core/App/Libraries/SD/SDCard.c:33:9:card_init	24	static
+../Core/App/Libraries/SD/SDCard.c:56:9:card_unmount	24	static
+../Core/App/Libraries/SD/SDCard.c:66:9:card_remount	24	static
+../Core/App/Libraries/SD/SDCard.c:80:9:get_free_space	24	static
+../Core/App/Libraries/SD/SDCard.c:93:9:file_open	136	static
+../Core/App/Libraries/SD/SDCard.c:137:9:file_close	16	static
+../Core/App/Libraries/SD/SDCard.c:146:9:file_write	24	static
+../Core/App/Libraries/SD/SDCard.c:155:5:file_size	4	static
+../Core/App/Libraries/SD/SDCard.c:161:9:find_folder_name	32	static
+../Core/App/Libraries/SD/SDCard.c:172:9:delete_folder	192	static
+../Core/App/Libraries/SD/SDCard.c:222:6:swap	1016	static
+../Core/App/Libraries/SD/SDCard.c:236:9:list_dir	112	static

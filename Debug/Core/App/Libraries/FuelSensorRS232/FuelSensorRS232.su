@@ -1,0 +1,4 @@
+../Core/App/Libraries/FuelSensorRS232/FuelSensorRS232.c:12:5:fuel_sensor_init	24	static
+../Core/App/Libraries/FuelSensorRS232/FuelSensorRS232.c:23:9:calculate_crc8	24	static
+../Core/App/Libraries/FuelSensorRS232/FuelSensorRS232.c:45:19:send_command_to_fuel_sensor	24	static
+../Core/App/Libraries/FuelSensorRS232/FuelSensorRS232.c:66:6:fuel_sensor_UART_callback	32	static

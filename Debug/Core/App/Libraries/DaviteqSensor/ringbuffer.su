@@ -1,0 +1,4 @@
+../Core/App/Libraries/DaviteqSensor/ringbuffer.c:10:9:ring_buff_push	24	static
+../Core/App/Libraries/DaviteqSensor/ringbuffer.c:26:9:ring_buff_pop	24	static
+../Core/App/Libraries/DaviteqSensor/ringbuffer.c:43:10:ring_buff_available	16	static
+../Core/App/Libraries/DaviteqSensor/ringbuffer.c:52:6:ring_buff_init	24	static

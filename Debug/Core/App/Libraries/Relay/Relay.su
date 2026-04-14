@@ -1,0 +1,5 @@
+../Core/App/Libraries/Relay/Relay.c:3:6:KhoiTaoCacChan	16	static
+../Core/App/Libraries/Relay/Relay.c:13:6:OFFCacRole	16	static
+../Core/App/Libraries/Relay/Relay.c:22:6:ONCacRole	16	static
+../Core/App/Libraries/Relay/Relay.c:31:6:ONOFFBangTayK1	16	static
+../Core/App/Libraries/Relay/Relay.c:45:6:ONOFFBangTayK2	16	static

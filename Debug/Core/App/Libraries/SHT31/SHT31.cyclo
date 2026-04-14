@@ -1,0 +1,10 @@
+../Core/App/Libraries/SHT31/SHT31.c:25:6:SHT31_Config	1
+../Core/App/Libraries/SHT31/SHT31.c:35:14:SHT31_SendCommand	2
+../Core/App/Libraries/SHT31/SHT31.c:44:14:SHT31_GetBytes	2
+../Core/App/Libraries/SHT31/SHT31.c:52:14:SHT31_GetData	9
+../Core/App/Libraries/SHT31/SHT31.c:111:10:SHT31_GetCommand	3
+../Core/App/Libraries/SHT31/SHT31.c:125:9:SHT31_CRC_8	4
+../Core/App/Libraries/SHT31/SHT31.c:140:7:SHT31_GetHumidity	1
+../Core/App/Libraries/SHT31/SHT31.c:143:7:SHT31_GetTemperature	1
+../Core/App/Libraries/SHT31/SHT31.c:147:10:SHT31_GetHumidity_raw	1
+../Core/App/Libraries/SHT31/SHT31.c:150:10:SHT31_GetTemperature_raw	1
